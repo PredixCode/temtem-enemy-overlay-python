@@ -1,0 +1,5 @@
+requests
+keyboard
+mss
+pytesseract==0.3.10
+PyQt5==5.15.11
