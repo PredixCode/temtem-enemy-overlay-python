@@ -14,7 +14,7 @@ from utils.getAllTemTems import getAllTemTems
 class EnemeyTemtemDetector:
     def __init__(self,temtems):
         self.temtems = temtems
-        self.initPytesseract()        
+        self.initPytesseract()
 
     def detectEnemies(self):
         for i in range(0,2):
